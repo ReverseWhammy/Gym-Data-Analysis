@@ -4,6 +4,9 @@ Analaizing churn patterns across 1000 members to identify actionable retention s
 ## Business Context
 Gyms typically lose 50% of their members within a 6 month period. This analysis identifies which factors predict member retention to help focus retention efforts.  
 
+## Tools Used
+Python (Pandas, NumPy, Matplotlib, Seaborn) | Power BI | DAX
+
 ## Dataset overview
 - **1000 synthetic gym members** (Jan 2022 - Mar 2024)
 - Variable: Membership Type, visit frequency, demographic, join date
@@ -44,6 +47,8 @@ Gyms typically lose 50% of their members within a 6 month period. This analysis 
 
 
 ## Dashboard
+<img width="1799" height="983" alt="image" src="https://github.com/user-attachments/assets/e3cc0ab9-b8fb-4d72-b87d-936e2f488d60" />
+
 [screenshot 1]
 [screenshot 2]
-[View Live Dashboard](paste Power BI publish-to-web link here)
+[View Live Dashboard](paste Power BI publish-to-web link her
