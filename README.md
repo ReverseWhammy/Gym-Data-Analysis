@@ -48,7 +48,8 @@ Python (Pandas, NumPy, Matplotlib, Seaborn) | Power BI | DAX
 
 ## Dashboard
 <img width="1799" height="983" alt="image" src="https://github.com/user-attachments/assets/e3cc0ab9-b8fb-4d72-b87d-936e2f488d60" />
+<img width="1786" height="990" alt="image" src="https://github.com/user-attachments/assets/ea252d4e-dede-4010-994e-6cc9d25c5e75" />
+<img width="1774" height="939" alt="image" src="https://github.com/user-attachments/assets/85de37fb-2de1-466b-a3d7-63deede35f9e" />
 
-[screenshot 1]
-[screenshot 2]
+
 [View Live Dashboard](paste Power BI publish-to-web link her
